@@ -48,5 +48,5 @@ The application supports **single-image inference**, **batch processing of image
 
 ---
 
-## 🏗 Project Architecture
+
 
