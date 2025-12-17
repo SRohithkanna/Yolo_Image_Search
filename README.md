@@ -5,7 +5,7 @@ The system detects objects in images, stores structured metadata, and allows use
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Searching large image datasets manually is inefficient.  
 This project solves that problem by:
@@ -19,7 +19,7 @@ The application supports **single-image inference**, **batch processing of image
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 -  **Object Detection** using YOLO
 -  **Batch Image Processing** from directories
@@ -34,7 +34,7 @@ The application supports **single-image inference**, **batch processing of image
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 | Tool | Purpose |
 |-----|--------|
