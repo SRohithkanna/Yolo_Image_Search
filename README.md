@@ -21,16 +21,16 @@ The application supports **single-image inference**, **batch processing of image
 
 ## 🧠 Key Features
 
-- 📸 **Object Detection** using YOLO
-- 🗂 **Batch Image Processing** from directories
-- 🖼 **Single Image Inference** with visualization
-- 🔍 **Search Engine**
+-  **Object Detection** using YOLO
+-  **Batch Image Processing** from directories
+-  **Single Image Inference** with visualization
+-  **Search Engine**
   - OR / AND class-based filtering
   - Optional object count thresholds
-- 🧾 **Metadata Storage** in JSON format
-- 🎨 **Annotated Image Visualization**
-- ⚡ **Fast Reload via Metadata Loading**
-- 🧠 **Session State Management** for smooth UI experience
+-  **Metadata Storage** in JSON format
+-  **Annotated Image Visualization**
+-  **Fast Reload via Metadata Loading**
+- **Session State Management** for smooth UI experience
 
 ---
 
