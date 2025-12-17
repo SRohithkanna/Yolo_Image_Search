@@ -1,4 +1,4 @@
-Computer Vision Powered Image Search Application
+## Computer Vision Powered Image Search Application
 
 An end-to-end **object detection and visual search application** built using **YOLO** and **Streamlit**.  
 The system detects objects in images, stores structured metadata, and allows users to **search images by object type and count** through an interactive web interface.
