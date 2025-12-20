@@ -51,12 +51,15 @@ The application supports **single-image inference**, **batch processing of image
 ## How to run this project
 1.Clone the repository
 git clone https://github.com/your-username/object-detection-streamlit.git
+---
 cd object-detection-streamlit
 
 2.Install requirements
+---
 pip install -r requirements.txt
 
 3.Run the application
+---
 streamlit run app.py
 
 
