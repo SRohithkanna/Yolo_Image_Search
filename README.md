@@ -50,7 +50,7 @@ The application supports **single-image inference**, **batch processing of image
 
 ## How to run this project
 1.Clone the repository
-git clone https://github.com/your-username/object-detection-streamlit.git
+git clone https://github.com/your-username/object-detection-streamlit.git](https://github.com/SRohithkanna/Yolo_Image_Search.git
 ---
 cd object-detection-streamlit
 
